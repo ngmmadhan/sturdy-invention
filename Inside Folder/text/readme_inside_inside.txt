@@ -1,8 +1,3 @@
 Readme file
-1
-1
-1
-1
-2
-
+Inside Inside Inside
 C:\Users\madhan.sundararaj\Store
